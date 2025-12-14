@@ -1,0 +1,15 @@
+{
+  "name": "imagepit-plugins",
+  "owner": {
+    "name": "ImagePit",
+    "email": "info@image-pit.com"
+  },
+  "plugins": [
+    {
+      "name": "text-lint-plugin",
+      "source": ".",
+      "description": "技術研修教材（テキスト、スライド、演習、テスト、フライヤー、プロモーション）の執筆をサポートするPlugin",
+      "version": "1.0.0"
+    }
+  ]
+}
