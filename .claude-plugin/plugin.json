@@ -1,7 +1,7 @@
 {
   "name": "text-lint-plugin",
   "description": "技術研修教材（テキスト、スライド、演習、テスト、フライヤー、プロモーション）の執筆をサポートするPlugin",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": {
     "name": "ImagePit",
     "email": "info@image-pit.com",
